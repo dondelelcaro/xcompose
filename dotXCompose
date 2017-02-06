@@ -110,6 +110,8 @@ include "%L"
 <Multi_key> <L> <underscore> <bracketright>  : "⸥"  U2E25	# BOTTOM RIGHT HALF BRACKET
 # Consider <7> <less>/<greater> for ⸂⸃ maybe? <S> and <slash> for ⸉⸊⸌⸍ ...?
 # I guess we can get by with sub/superset for ⸦⸧.
+# Paragraph sign/european section sign
+<Multi_key> <P> <I>                          : "¶"  U00B6   # PILCROW SIGN 
 
 <Multi_key> <minus> <less>		: "←"	leftarrow	# LEFTWARDS ARROW
 <Multi_key> <minus> <asciicircum>	: "↑"	uparrow		# UPWARDS ARROW
